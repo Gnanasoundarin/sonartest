@@ -23,6 +23,7 @@
         {
           "Host": "localhost",
           "Port": 60243
+          "password": abc*12398
         }
       ],
       "UpstreamPathTemplate": "/account/deposit",
